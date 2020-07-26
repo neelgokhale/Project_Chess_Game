@@ -9,5 +9,5 @@ Python-based chess game using the Pygame library. Implementing the following gam
 2. [:heavy_check_mark:] En-passant
 3. [:heavy_check_mark:] Casteling
 4. [:heavy_check_mark:] Checkmate/stalemate message
-5. [] Move highlighting
+5. [:hourglass:] Move highlighting
 
