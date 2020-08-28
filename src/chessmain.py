@@ -9,7 +9,7 @@ Built using PyCharm
 
 
 import pygame as p
-import chessengine
+from src import chessengine
 
 # Consts
 
